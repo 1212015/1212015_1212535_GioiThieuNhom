@@ -30,16 +30,16 @@ Yêu cầu **thiết kế**:
     * [+] Firefox
     * [+] Chrome
     * [+] Icon, màu sắc,...
-* [+] Thiết kế responsive
+* [ ] Thiết kế responsive
 
 Liệt kê các **yêu cầu nâng cao** đã thực hiện:
-
+- Tạo thêm layout liên hệ.
 
 ## Demo
 
 Link ảnh GIF demo ứng dụng:
 
-![Video Walkthrough](demo.gif)
+http://i.imgur.com/cnI9kSc.gif
 
 Tạo ảnh GIF với chương trình [LiceCap](http://www.cockos.com/licecap/).
 
