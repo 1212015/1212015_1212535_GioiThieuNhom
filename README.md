@@ -2,9 +2,11 @@
 
 **Name of your app** là một bài tập 1 tại môn UDPT.
 
-Thành viên: **Tên và mã số sinh viên thành viên**
+Thành viên: 
+1212015 - Phan Long Ánh
+1212535 - Vũ Thị Thanh Xuân
 
-URL: **URL hosting của bài tập**
+URL: https://github.com/1212015/1212015_1212535_GioiThieuNhom.git
 
 ## Yêu cầu
 
